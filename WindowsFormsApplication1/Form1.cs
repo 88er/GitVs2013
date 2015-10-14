@@ -38,7 +38,7 @@ namespace WindowsFormsApplication1
                 if (site > 1)
                 {
                     id = r.Next(1, site - 1);
-                    //test git
+          
 
                     //在随机位置取出一个数，保存到结果数组 
                     result[j] = index[id];
